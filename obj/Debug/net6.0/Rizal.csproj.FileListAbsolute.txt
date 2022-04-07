@@ -1,0 +1,15 @@
+D:\Rizal\bin\Debug\net6.0\Rizal.exe
+D:\Rizal\bin\Debug\net6.0\Rizal.deps.json
+D:\Rizal\bin\Debug\net6.0\Rizal.runtimeconfig.json
+D:\Rizal\bin\Debug\net6.0\Rizal.dll
+D:\Rizal\bin\Debug\net6.0\Rizal.pdb
+D:\Rizal\obj\Debug\net6.0\Rizal.csproj.AssemblyReference.cache
+D:\Rizal\obj\Debug\net6.0\Rizal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rizal\obj\Debug\net6.0\Rizal.AssemblyInfoInputs.cache
+D:\Rizal\obj\Debug\net6.0\Rizal.AssemblyInfo.cs
+D:\Rizal\obj\Debug\net6.0\Rizal.csproj.CoreCompileInputs.cache
+D:\Rizal\obj\Debug\net6.0\Rizal.dll
+D:\Rizal\obj\Debug\net6.0\refint\Rizal.dll
+D:\Rizal\obj\Debug\net6.0\Rizal.pdb
+D:\Rizal\obj\Debug\net6.0\Rizal.genruntimeconfig.cache
+D:\Rizal\obj\Debug\net6.0\ref\Rizal.dll
